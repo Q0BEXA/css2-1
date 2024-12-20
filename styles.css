@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Inria+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Inria+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#header_container {
+    width: 1140px;
+    height: 72px;
+    padding: 12px 80px 12px 80px;
+    gap: 0px;
+}
+
+#link_box {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 179.17px;
+}
+
+#nextmove_logo {
+    vertical-align: middle;
+}
+
+#navigation {
+    width: 1140px;
+}
+
+#contact_button {
+    font-size: 14px;
+    color: rgba(172, 0, 255, 1);
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid rgba(172, 0, 255, 1);
+    background: rgba(233, 215, 254, 1);
+    margin-left: 284.17px;
+
+}
+
+#link_box a {
+    margin-left: 20px;
+    text-decoration: none;
+    color: rgba(50, 50, 50, 1);
+    font-family: Inter;
+}
+
+#text {
+    width: Fixed (841px)px;
+    height: Hug (314px)px;
+    top: 136px;
+    left: 214px;
+    gap: 24px;
+    opacity: 0px;
+    margin-top: 64px;
+    margin-left: 214px;
+}
+
+#simple {
+    font-family: Impact;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 74px;
+    text-align: left;
+    width: 720px;
+    height: 148px;
+    color: rgba(50, 50, 50, 1);
+}
+
+#mo_money {
+    width: 841px;
+    height: 64px;
+    font-family: Inria Sans;
+    font-size: 24px;
+    font-weight: 400;
+    text-align: left;
+    color: rgba(50, 50, 50, 1);
+    margin-top: 24px;
+}
+
+#join_now_container {
+    width: Hug (422px)px;
+    height: Hug (54px)px;
+    gap: 24px;
+    margin-top: 24px;
+}
+
+
+#join_button {
+    padding: 16px 63.5px;
+    background: rgba(92, 59, 174, 1);
+    border: solid rgba(92, 59, 174, 1);
+    border-radius: 8px;
+    color: white;
+
+}
+
+#play_loading_logo {
+    vertical-align: middle;
+    margin-left: 23.99px;
+}
+
+#watch {
+    margin: 5px 0px 5px 12px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: left;
+    color: rgba(77, 52, 145, 1);
+}
+
+#cards {
+    width: 1311px;
+    height: 761px;
+    margin-left: 636px;
+    margin-top: ;
+}
+
+#cards_svg {
+    margin-top: -128px;}
